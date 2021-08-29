@@ -1,0 +1,2 @@
+rootProject.name = "SU2021CS5520HW7"
+include ':app'
